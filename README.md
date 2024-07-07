@@ -40,11 +40,5 @@ java Principal
 ## API Utilizada
 Este proyecto utiliza la API de ExchangeRate-API para obtener las tasas de cambio actualizadas. Asegúrese de tener una conexión a Internet activa para que el programa funcione correctamente.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambios mayores antes de hacer un pull request.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
-
 ## Contacto
 Si tiene alguna pregunta o sugerencia, no dude en contactarme a través de [lacaro@ut.edu.co].

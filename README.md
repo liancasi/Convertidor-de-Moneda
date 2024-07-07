@@ -47,4 +47,4 @@ Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambi
 Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
 
 ## Contacto
-Si tiene alguna pregunta o sugerencia, no dude en contactarme a través de [tu-email@ejemplo.com].
+Si tiene alguna pregunta o sugerencia, no dude en contactarme a través de [lacaro@ut.edu.co].
